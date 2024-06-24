@@ -1,6 +1,6 @@
 # Nextjs Clasification-X-ray-pneumonia
 
-Nextjs Classification of chest x-ray images with pneumonia and normal using the [kaggle](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia) dataset [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia), converting a.h5 model to tensorflowjs that is .json and .bin
+Nextjs Classification of chest x-ray images with pneumonia and normal using the [kaggle](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia) dataset [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia), converting to .h5 model to tensorflowjs that is .json and .bin
 
 Classification of chest x-ray images with pneumonia and normal using this pneumonia_classifier.h5 (file Copia_de_clasification_xray.ipynb) to convert it to tensorflowjs ,going from an h5 model to js produces several .bin files and the json model
 
